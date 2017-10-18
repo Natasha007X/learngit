@@ -454,7 +454,7 @@ redosled--; // Вредноста на т се менува и редослед�
 
 <td><a href="javascript:izborIgrac('F')"><img src="prazno.jpg" border="0" height="180" width="180" name="F" alt="Middle-Right"></a></td>
 <td>Вашиот резултат:</br><input type="text" size="5" name="you"></br> 
-Резултатот на компјутерот е:</br><input type="text" size="5" name="computer"></br>
+Резултатот на компјутерот :</br><input type="text" size="5" name="computer"></br>
 Нерешено:</br><input type="text" size="5" name="ties">
 </td>
 
