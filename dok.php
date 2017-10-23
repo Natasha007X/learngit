@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-<title>TIC - TAC - TOE</title>
+<title>TIC - TAC - TOE BOARD</title>
 </head>
 <body background="bg.gif">
 
